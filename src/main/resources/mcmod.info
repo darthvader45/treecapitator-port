@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "treecapitator",
+    "name": "Treecapitator",
+    "description": "Allows you to chop down entire trees by breaking a single log.",
+    "version": "",
+    "mcversion": "",
+    "url": "(none yet: chicken-and-egg situation)",
+    "updateUrl": "",
+    "authorList": [ "DaftPVF", "bspkrs", "AstroTibs" ],
+    "credits": "Original by DaftPVF; additional credit to Lunatrius, AtomicStryker, ScottKillen, bspkrs.",
+    "logoFile": "",
+    "screenshots": [  ],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [  ],
+    "useDependencyInformation": "true"
+  }]
+}
