@@ -17,7 +17,7 @@ public class GuiFactoryTreecapitatorimplements IModGuiFactory
     @Override
     public Class<? extends GuiScreen> mainConfigGuiClass() 
     {
-        return GuiConfigTreecapitator.class;
+        return GuiTCConfig.class;
     }
  
     @Override
